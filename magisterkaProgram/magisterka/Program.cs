@@ -21,7 +21,7 @@ namespace magisterka
             znaki = new List<znak>();
             liscie = new List<lisc>();
 
-            string nazwa = "probny";
+            string nazwa = "wiki001";
 
             wczytajTekst(nazwa);
             policzZnaki();
