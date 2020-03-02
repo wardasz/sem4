@@ -1,0 +1,1 @@
+﻿Taki sobie mały testowy tekścik, aby zobaczyć czy wczytywanie działa jak należy. A jak zadziała to może i podstawy liczenia się na nim sprawdzi. Albo nawet coś jeszcze więcej.
